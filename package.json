@@ -8,8 +8,7 @@
   },
   "scripts": {
     "start": "serve -s build",
-    "build": "npm run build",
-    "heroku-postbuild": "npm run build"
+    "build": "npm run build"
   },
   "repository": {
     "type": "git",
