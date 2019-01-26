@@ -7,8 +7,7 @@
     "node": "11.6.0"
   },
   "scripts": {
-    "start": "serve -s build",
-    "build": "npm run build"
+    "start": "node snake2.js"
   },
   "repository": {
     "type": "git",
